@@ -17,7 +17,8 @@ A fully interactive 3D simulation of the Solar System built with **Vite**, **Van
 *   **🎮 Interactive Controls:** `OrbitControls` for zooming, panning, and exploring the system.
 
 ## Images
-<img width="957" height="457" alt="image" src="https://github.com/user-attachments/assets/1f5f387f-d842-4c39-aa9b-d756b2694317" />
+<img width="955" height="457" alt="image" src="https://github.com/user-attachments/assets/252503da-7cdf-4639-8117-52a6aaabefc1" />
+
 
 
 
